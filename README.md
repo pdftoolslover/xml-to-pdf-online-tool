@@ -9,7 +9,7 @@ A free online tool to convert XML files into high-quality PDF documents.
 - Works on all devices
 
 🔗 Try the tool here:
-https://pdftoolslover.com/xml_to_pdf
+https://pdftoolslover.com/xml_to_pdf.php
 
 ## Use Case
 This tool is useful for developers, accountants, and businesses that need XML reports converted into PDF format.
